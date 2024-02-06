@@ -1,0 +1,17 @@
+.container{
+    height: 70px;
+   background-color: rgb(150, 150, 150);
+    text-align: center;
+    margin-top: 10px;
+}
+.container p,address{
+    
+    font-weight: bold;
+    line-height: 25px;
+}
+@media screen and (max-width:480px){
+    .container{
+        height: 100px;
+      }
+    
+}

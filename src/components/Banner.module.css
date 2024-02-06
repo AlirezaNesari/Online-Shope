@@ -1,0 +1,228 @@
+.container{
+    
+    width: 100%;
+    position: relative;
+}
+.container img{
+    margin-top: 5px;
+    height: 600px;
+    width: 100%;
+}
+.textcontainer{
+    position: absolute;
+    direction: rtl;
+    top: 370px;
+    left: 900px;
+}
+.textcontainer h1{
+    font-size: 4rem ;
+    color: #cccccc;
+}
+.textcontainer p{
+    text-indent: 30px;
+    font-size: 2.5rem ;
+    margin-top: 20px;
+    color: #cccccc;
+}
+@media screen and (max-width:1310px){
+
+.container{
+    
+    width: 100%;
+    position: relative;
+}
+.container img{
+    margin-top: 5px;
+    height: 600px;
+    width: 100%;
+}
+.textcontainer{
+    position: absolute;
+    direction: rtl;
+    top: 370px;
+    left: 600px;
+}
+.textcontainer h1{
+    font-size: 3.5rem ;
+    color: #cccccc;
+}
+.textcontainer p{
+    text-indent: 30px;
+    font-size: 2.5rem ;
+    margin-top: 20px;
+    color: #cccccc;
+}
+}
+@media screen and (max-width:979px){
+    .container{
+    
+        width: 100%;
+        position: relative;
+    }
+    .container img{
+        margin-top: 5px;
+        height: 550px;
+        width: 100%;
+    }
+   
+    .textcontainer h1{
+        font-size: 3.5rem ;
+        color: #cccccc;
+    }
+    .textcontainer{
+        position: absolute;
+        direction: rtl;
+        top: 370px;
+        left: 500px;
+    }
+    .textcontainer p{
+        text-indent: 30px;
+        font-size: 3rem ;
+        margin-top: 20px;
+        color: #cccccc;
+    }
+}
+@media screen and (max-width:900px){
+    .container{
+    
+        width: 100%;
+        position: relative;
+    }
+    .container img{
+        margin-top: 5px;
+        height: 500px;
+        width: 100%;
+    }
+   
+    .textcontainer h1{
+        font-size: 3rem ;
+        color: #cccccc;
+    }
+    .textcontainer{
+        position: absolute;
+        direction: rtl;
+        top: 370px;
+        left:400px;
+    }
+    .textcontainer p{
+        text-indent: 30px;
+        font-size: 1.5rem ;
+        margin-top: 20px;
+        color: #cccccc;
+    }
+}@media screen and (max-width:768px){
+    .container{
+    
+        width: 100%;
+        position: relative;
+    }
+    .container img{
+        margin-top: 5px;
+        height: 450px;
+        width: 100%;
+    }
+    
+    .textcontainer h1{
+        font-size: 2.5rem ;
+        color: #cccccc;
+    }
+    .textcontainer{
+        position: absolute;
+        direction: rtl;
+        top: 330px;
+        left: 280px;
+    }
+    .textcontainer p{
+        text-indent: 30px;
+        font-size: 2rem ;
+        margin-top: 20px;
+        color: #cccccc;
+    }
+}
+@media screen and (max-width:600px){
+    .container{
+    
+        width: 100%;
+        position: relative;
+    }
+    .container img{
+        margin-top: 5px;
+        height: 320px;
+        width: 100%;
+    }
+  
+    .textcontainer h1{
+        font-size: 2rem ;
+        color: #cccccc;
+    }
+    .textcontainer{
+        position: absolute;
+        direction: rtl;
+        top: 200px;
+        left: 170px;
+    }
+    .textcontainer p{
+        text-indent: 30px;
+        font-size:2rem ;
+        margin-top: 20px;
+        color: #cccccc;
+    }
+}
+@media screen and (max-width:480px){
+    .container{
+    
+        width: 100%;
+        position: relative;
+    }
+    .container img{
+        margin-top: 5px;
+        height: 250px;
+        width: 100%;
+    }
+    .textcontainer h1{
+        font-size: 1.5rem ;
+        color: #cccccc;
+    }
+    .textcontainer{
+        position: absolute;
+        direction: rtl;
+        top: 150px;
+        left: 170px;
+    }
+    .textcontainer p{
+        text-indent: 30px;
+        font-size: 1rem ;
+        margin-top: 20px;
+        color: #cccccc;
+    }
+}
+
+@media screen and (max-width:320px){
+    .container{
+    
+        width: 100%;
+        position: relative;
+    }
+    .container img{
+        margin-top: 5px;
+        height: 200px;
+        width: 100%;
+    }
+    
+    .textcontainer h1{
+        font-size: 1.5rem ;
+        color: #cccccc;
+    }
+    .textcontainer{
+        position: absolute;
+        direction: rtl;
+        top: 120px;
+        left:120px;
+    }
+    .textcontainer p{
+        text-indent: 30px;
+        font-size: 1rem ;
+        margin-top: 20px;
+        color: #cccccc;
+    }
+}
